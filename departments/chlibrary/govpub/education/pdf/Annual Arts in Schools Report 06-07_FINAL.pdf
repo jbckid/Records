@@ -1,0 +1,60 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML>
+	<HEAD>
+		<title>Error 404: Page not found</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<style>
+body.error404 {
+                background-color: #E2E2E2;
+                padding:75px 0px;
+                font-family:Arial, Helvetica, sans-serif;}
+div.error404 {
+                text-align:left;
+                width: 525px;
+                margin: 0 auto;
+                padding: 12px;
+                border:1px solid black;
+                background-color:#fff;}
+div.error404 h1 {
+                font-size:20px;
+                color:#336600;}
+div.error404 ul {
+                margin-top:18px 0px; 
+                border: 0px solid red;
+                }
+div.error404 ul li {
+                margin-bottom:3px;
+                /* border: 0px solid red; */
+                FONT: normal 12px Arial, Helvetica, sans-serif;
+                }
+div.error404 a {
+                color:#0D4B97; word-wrap: break-word}
+                
+div.error404 p  {
+                FONT: normal 12px Arial, Helvetica, sans-serif;
+}
+
+
+                </style>
+
+
+	</HEAD>
+	<body class="error404">
+		<form name="Form1" method="post" action="Error404.aspx?404%3bhttp%3a%2f%2fschools.nyc.gov%3a80%2foffices%2fteachlearn%2farts%2fAnnual+Arts+in+Schools+Report+06-07_FINAL.pdf" id="Form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI1MTg2Mzc1M2RkmUg5gbTFSCLui8Vj834PcCEWUzY=" />
+</div>
+
+			        <p>
+            <div class='error404'><img src='/Graphics/DOE/images/nycdoe_123x89.jpg' /><h1>Sorry, the page you requested cannot be found.</h1><p>Common solutions include:</p><ul><li>If you typed the URL in the address bar, make sure that it is spelled correctly.</li><li>Try our <a href='http://search.nycenet.edu/'>search engine</a> to find the page you're looking for.</li><li>Visit the our <a href='http://schools.nyc.gov/'>website's homepage</a>.</li><li>Click the <a href='javascript:history.back()'>Back</a> button to try another link.</li></ul></div>
+
+        </p>
+
+			
+		</form>
+	</body>
+</HTML>
