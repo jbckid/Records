@@ -1,0 +1,236 @@
+@charset "utf-8";
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background: /*#42413C*/ #FFF;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+	padding-right: 15px;
+	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
+	font-size: small;
+	text-align: left;
+}
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+	border: none;
+}
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+a:link {
+	color: #42413C;
+	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+a:visited {
+	color: #6E6C64;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	text-decoration: none;
+}
+
+/* ~~ this fixed width container surrounds the other divs ~~ */
+.container {
+	width: 770px;
+	background: #FFF;
+	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+}
+
+/* ~~ the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo ~~ */
+.header {
+	background: #FFF;
+	height: 80px;
+}
+.navbar {
+	padding-top:10px;
+	padding-bottom:5px;
+}
+/* ~~ This is the layout information. ~~ 
+
+1) Padding is only placed on the top and/or bottom of the div. The elements within this div have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
+
+*/
+
+.content {
+
+	padding: 10px 0;
+}
+
+/* ~~ The footer ~~ */
+.footer {
+	padding: 10px 0;
+	color: #A58F00;
+	background: #FFF;
+}
+
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+/*Articles*/
+.articles {
+	padding: 5px;
+	color: #33C;
+	background: #FFF;
+}
+
+.articles .col1 {
+	width: 250px;
+	padding-left: 10px;
+}
+
+.articles .col2 {
+	width: 250px;
+}
+
+.articles .col3 {
+	width: 250px;
+	padding-right: 10px;
+}
+
+/* Color Codes */
+.primary-1 { background-color: #4611AD }
+.primary-2 { background-color: #482A82 }
+.primary-3 { background-color: #2A0670 }
+.primary-4 { background-color: #7745D6 }
+.primary-5 { background-color: #906CD6 }
+
+.secondary-a-1 { background-color: #8705A7 }
+.secondary-a-2 { background-color: #6B227D }
+.secondary-a-3 { background-color: #57026D }
+.secondary-a-4 { background-color: #B539D3 }
+.secondary-a-5 { background-color: #BD62D3 }
+
+.secondary-b-1 { background-color: #E1F800 }
+.secondary-b-2 { background-color: #ADBA2F }
+.secondary-b-3 { background-color: #92A100 }
+.secondary-b-4 { background-color: #EAFC3F }
+.secondary-b-5 { background-color: #EEFC71 }
+
+.complement-1 { background-color: #FDDD00 }
+.complement-2 { background-color: #BEAC2F }
+.complement-3 { background-color: #A58F00 }
+.complement-4 { background-color: #FEE640 }
+.complement-5 { background-color: #FEEC72 }
+
+/* End Color Codes */
+
+/* Navbar */
+	
+body{
+	font-size:9pt;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+#nav, #nav ul{
+	margin:0 auto;
+	padding:0;
+	list-style-type:none;
+	list-style-position:outside;
+	position:relative;
+	line-height:1.5em;
+	z-index:8000;
+}
+
+#nav a{
+display:block;
+padding:0px 5px;
+border-bottom:1px solid #482A82;
+color:#333;
+text-decoration:none;
+background-color:#fff;
+}
+
+#nav a:hover{
+background-color:#482A82;
+color:#FFF;
+font-weight:550;
+}
+
+#nav li{
+float:left;
+position:relative;
+background-color:#482A82;
+opacity:0.9;
+filter:alpha(opacity=90);
+}
+
+#nav ul {
+position:absolute;
+display:none;
+width:10em;
+top:1.5em;
+}
+
+#nav li ul a{
+width:12em;
+height:auto;
+float:left;
+}
+
+#nav ul ul{
+top:auto;
+}	
+
+#nav li ul ul {
+left:11.75em;
+margin:0px 0 0 0px;
+}
+
+#nav li:hover ul ul, #nav li:hover ul ul ul, #nav li:hover ul ul ul ul{
+display:none;
+}
+#nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li li li li:hover ul{
+display:block;
+}
+
+/*End Nav*/
+
+/*Translate*/
+#google_translate_wrap #translate_note {
+	font-size:8px; 
+	color:#666; 
+	line-height:10px;
+}
+#google_translate_wrap {
+	position:relative; 
+	margin:0 auto; 
+	z-index:10; 
+	width:774px;
+}
+#google_translate_inner {
+	background-color:#fff; 
+	opacity: .7; 
+	filter:alpha(opacity=70); 
+	position:absolute; 
+	right:0; 
+	top:108px; 
+	border:1px solid #ccc; 
+	border-top:none; 
+	padding:4px 6px;
+}
+#google_translate_inner:hover {
+	opacity: 1;
+}
+#google_translate_inner img {
+	border:none; 
+	vertical-align:middle;
+}

@@ -1,0 +1,371 @@
+<html><!-- InstanceBegin template="/Templates/nycgov_3col.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<link href="/portal/css/nycgov2003.css" rel="stylesheet" type="text/css">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>NYC.gov - The Official New York City Web Site - Redirected page</title>
+<META http-equiv="description" content="NYC.gov - New York City's Official Web Site">
+<META http-equiv="keywords" content="New York City NYC.gov  NYC.gov government nyc government Mayor Bloomberg nyc services nyc agencies nyc events nyc attractions  nyc commissioners business nyc business">
+<!-- InstanceEndEditable -->
+</head>
+<script language="JavaScript">
+<!--
+
+function WM_netscapeCssFix() {
+  /*
+    Source: Webmonkey Code Library
+    (http://www.hotwired.com/webmonkey/javascript/code_library/)
+
+    Author: Taylor
+    Author Email: taylor@wired.com
+    Author URL: http://www.taylor.org/
+    It was added for Islide menu applet to show the applet as empty
+    */
+
+  // This part was inspired by Matthew_Baird@wayfarer.com
+  // It gets around another unfortunate bug whereby Netscape
+  // fires a resize event when the scrollbars pop up. This
+  // checks to make sure that the window's available size
+  // has actually changed.
+  if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
+    document.location = document.location;
+  }
+}
+
+function WM_netscapeCssFixCheckIn() {
+  // This function checks to make sure the version of Netscape
+  // in use contains the bug; if so, it records the window's
+  // width and height and sets all resize events to be handled
+  // by the WM_netscapeCssFix() function.
+  if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
+    if (typeof document.WM == 'undefined'){
+      document.WM = new Object;
+    }
+    if (typeof document.WM.WM_scaleFont == 'undefined') {
+      document.WM.WM_netscapeCssFix = new Object;
+      document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
+      document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
+    }
+    window.onresize = WM_netscapeCssFix;
+  }
+}
+
+WM_netscapeCssFixCheckIn()
+
+
+// -->
+
+</script>
+<body background="/portal/images/page_bg/home_bg.gif" bgcolor="#ffffff" text="#333333" link="#333333" vlink="#4c4c4c" alink="#660000" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+<map name="Map">
+  <area shape="rect" coords="16,3,83,64" href="/portal/site/nycgov/menuitem.9ccf24b9bedd2ae6a62fa24601c789a0/" alt="NYC.gov Always Open">
+</map>
+<table width="770" border="0" cellspacing="0" cellpadding="0" height="68">
+  <tr>
+    <td height="68"><script language="JavaScript" type="text/JavaScript" src="/html/misc/scripts/portal_banner.js"></script><noscript>
+        <img src="/portal/images/headers/nycgov/banner_man_midtownnight.jpg" alt="Midtown Skyline, Manhattan. Photographer: Bart Barlow" width="770" height="68" border="0" usemap="#Map">
+        </noscript></td>
+  </tr>
+</table>
+<table border=0 cellpadding=0 cellspacing=0 width="769">
+  <tr>
+    <td width="769">
+      <table width="769" border="0" cellspacing="0" cellpadding="0" height="25">
+        <tr height="10">
+          <td  colspan="3" align="right" bgcolor="#91A6B4" height="25"> <a href="/residents"><img src="/portal/images/headers/nycgov/button_residents.gif" alt="Residents" width="66" height="25" border="0"></a> <img src='http://nyc.gov/portal/images/headers/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'> <a href="/business"><img src="/portal/images/headers/nycgov/button_business.gif" alt="Business" width="64" height="25" border="0"></a> <img src='http://nyc.gov/portal/images/headers/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'> <a href="/visitors"><img src="/portal/images/headers/nycgov/button_visitors.gif" alt="Visitors" width="55" height="25" border="0"></a> <img src='http://nyc.gov/portal/images/headers/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'> <a href="/government"><img src="/portal/images/headers/nycgov/button_government.gif" alt="Government" width="82" height="25" border="0"></a> <img src='http://nyc.gov/portal/images/headers/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'> <a href="/mayor"><img src="/portal/images/headers/nycgov/button_office_of_mayor.gif" alt="Office of the Mayor" width="137" height="25" border="0"></a> </td>
+        </tr>
+      </table>
+      <table width="769" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+        <tr>
+          <td width="569" bgcolor="#FFFFFF">
+            <!-- InstanceBeginEditable name="pagetitle" -->
+			
+            <table width="569" border="0" cellspacing="0" cellpadding="0" bgcolor="FFFFFF">
+              <tr>
+                <td  width="569" align="left"> <img src="/portal/images/spacers/spacer.gif" width="10" height="15"><font size="3" color="#CC3333"><strong>This
+                Page is Not Available</strong></font></td>
+              </tr>
+            </table>
+            <!-- InstanceEndEditable --></td>
+          <td width="20"><img src="/portal/images/spacers/spacer.gif" width="20" height="10"></td>
+          <td width="180"><a href="/portal/register.jsp"><img src="/portal/images/navigation/nycgov/email_icon.gif" alt="Sign up for E-mail Updates" width="180" height="33" border="0"></a></td>
+        </tr>
+        <tr>
+          <td colspan="3"><img src="/portal/images/navigation/nycgov/top_horizontal_blk_line.gif" width="769" height="1"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td border='0'  cellpadding='0' cellspacing='0' width="769"> <a name="mainContent"></a>
+      <table border="0" cellspacing="0" cellpadding="0" width='100%'>
+        <tr><!-- InstanceBeginEditable name="left_nav" -->
+          <td width=180 align="left" valign="top">
+            <table width="180" border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top">
+                <td width="10"><img src="/portal/images/spacers/spacer.gif" width="10" height="20"></td>
+                <td width="160">
+                  <p><br>
+                  </p>
+                </td>
+                <td width="10"><img src="/portal/images/spacers/spacer.gif" width="10" height="20"></td>
+              </tr>
+            </table>
+            <br>
+            <img src="/portal/images/spacers/spacer.gif" width="180" height="12"></td>
+          <!-- InstanceEndEditable -->
+          <td width=409 valign="top"><table width="409" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="20"><img src="/portal/images/spacers/spacer.gif" width="20" height="10"></td>
+                <!-- InstanceBeginEditable name="content" -->
+                <td width="369" valign="top">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" valign="top" width="369">
+                        <p>
+                          <SCRIPT language="JavaScript">
+<!--
+
+//*********************************** JUMP LIST ***************************
+function go ()
+{
+//window.opener.location = document.menuform.elements[0].options[document.menuform.elements[0].selectedIndex].value;
+//window.close();
+document.location = document.menuform.elements[0].options[document.menuform.elements[0].selectedIndex].value;
+}
+
+//-->
+                          </SCRIPT>
+</p>
+
+                          
+                        <br>
+                        You have reached an outdated page on NYC.gov, the Official 
+                        New York City Web Site.<BR>
+                            <BR>
+                        To visit a City Agency Web site, choose from the list 
+                        below: 
+                        <p> <a href="/html/doh/wtc/html/home/home.shtml">9/11 
+                          Health Information</a><br>
+                          <a href="/html/acs/home.html">Administration for Children's 
+                          Services</a><br>
+                          <a href="/html/adulted/html/home/home.shtml">Adult Education</a><br>
+                          <a href="/html/housinginfo/html/home/home.shtml">Affordable 
+                          Housing</a><br>
+                          <a href="/html/dfta/html/home/home.shtml">Aging</a><br>
+                          <a href="/html/artcom/home.html">Art Commission</a><br>
+                          <a href="/html/dob/home.html">Buildings</a><br>
+                          <a href="/portal/site/businessexpress">Business Express</a><br>
+                          <a href="/html/bic/html/home/home.shtml">Business Integrity 
+                          Commission</a><br>
+                          <a href="/businesssolutions">Business Solutions</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.cfb.nyc.ny.us/">Campaign Finance 
+                          Board</a><br>
+                          <a href="/html/charter/">Charter Revision Commission</a><br>
+                          <a href="/html/ocme/html/home/home.shtml">Chief Medical 
+                          Examiner</a><br>
+                          <a href="http://www.cityclerk.nyc.gov">City Clerk</a> <br>
+                          <a href="http://council.nyc.gov">City Council</a><br>
+                          <a href="/html/dcp/home.html">City Planning</a><br>
+                          <a href="/html/cityrecord/home.html">City Record</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.cuny.edu/">City University</a><br>
+                          <a href="/html/citystore/">CityStore</a><br>
+                          <a href="/html/dcas/home.html">Citywide Administrative 
+                          Services</a><br>
+						  <a href="/html/cecm/">Citywide Event Coordination 
+						  and Management</a><br>
+                          <a href="/html/ccrb/home.html">Civilian Complaint Review 
+                          Board</a><br>
+                          <a href="http://nyc.gov/html/ccpc/html/home/home.shtml">Commission 
+                          to Combat Police Corruption</a><br>
+                          <a href="/html/cau/home.html">Community Affairs Unit</a><br>
+                          <a href="/html/conflicts/home.html">Conflicts of Interest</a><br>
+                          <a href="/html/dca/home.html">Consumer Affairs</a><br>
+                          <a href="/html/mocs/html/home/home.shtml">Contract Services</a><br>
+                          <a href="/html/doc/home.html">Correction</a><br>
+                          <a href="/html/dcla/home.html">Cultural Affairs</a><br>
+                          <a href="/html/doi/home.html">DOI - Investigation</a><br>
+                          <a href="/html/ddc/home.html">Design & Construction</a><br>
+						  <a href="/html/artcom/home.html">Design Commission</a><br>
+                          <a href="/html/mopd/html/home/home.shtml">Disabilities, 
+                          Office for People with</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.bronxda.net/">District Attorney, 
+                          Bronx</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.brooklynda.org/">District Attorney, 
+                          Brooklyn</a><br>
+                          <a href="/html/nyda/home.html">District Attorney, NY 
+                          County</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.queensda.org/">District Attorney, 
+                          Queens</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://rcda.nyc.gov/">District Attorney, SI</a><br>
+                          <a href="/html/ocdv/home.html">Domestic Violence</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.nycedc.com/">Economic Development</a><br>
+                          <a href="/html/ceo/html/home/home.shtml">Economic Opportunity</a><br>
+                          <a href="http://schools.nyc.gov">Education, Dept. of</a><br>
+                          <a href="http://vote.nyc.ny.us/">Elections, Board of</a><br>
+                          <a href="/html/oem/home.html">Emergency Management</a><br>
+                          <a href="/html/endinghomelessness/html/home/home.shtml">Ending 
+                          Homelessness</a><br>
+                          <a href="/html/dep/home.html">Environmental - DEP</a><br>
+                          <a href="/html/oec/">Environmental - OEC</a><br>
+                          <a href="/ecb">Environmental Control Board</a><br>
+                          <a href="/html/eepc/">Equal Employment Practices Commission</a><br>
+                          <a href="/html/film/html/index/index.shtml">Film/Theatre</a><br>
+                          <a href="/html/dof/home.html">Finance</a><br>
+						  <a href="/html/ofe/">Financial Empowerment</a><br>
+                          <a href="/html/fdny/home.html">Fire Department</a><br>
+                          <a href="/html/fund/">Fund to Advance NYC</a><br>
+                          <a href="/html/doh/html/home/home.shtml">Health & Mental 
+                          Hygiene</a><br>
+                          <a href="/html/hia/home.html">HealthStat</a><br>
+                          <a href="/html/dhs/html/home/home.shtml">Homeless Services</a><br>
+                          <a href="/html/hhc/home.html">Health & Hospitals Corporation</a><br>
+                          <a href="/html/hpd/home.html">Housing Preservation & 
+                          Development</a><br>
+                          <a href="/html/cchr/home.html">Human Rights, Commission 
+                          on</a><br>
+                          <a href="/html/hra/home.html">Human Resources Administration</a><br>
+                          <a href="/html/recruit/home.html">Information Technology 
+                          Jobs Information Center</a><br>
+                          <a href="/html/imm/home.html">Immigrant Affairs</a><br>
+                          <a href="/html/imb">Ind. & Mfg. Bus.</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.ibo.nyc.ny.us/">Independent Budget</a><br>
+                          <a href="/html/doitt/home.html">Information Technology 
+                          & Telecommunications</a><br>
+                          <a href="/html/moiga/home.html">Intergovernmental Affairs</a><br>
+                          <a href="/html/mcp/home.html">International Affairs</a><br>
+                          <a href="/html/acj/html/home/home.shtml">Judiciary Committee</a><br>
+                          <a href="/html/djj/home.html">Juvenile Justice</a><br>
+                          <a href="/html/olr/html/home/home.shtml">Labor Relations</a><br>
+                          <a href="/html/lpc/home.html">Landmarks Preservation 
+                          Commission</a><br>
+                          <a href="/html/lmec/html/home/home.shtml">Latin Media 
+                          & Entertainment Commission</a><br>
+                          <a href="http://www.nyc.gov/html/law/html/home/home.shtml">Law 
+                          Department</a> <br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.brooklynpubliclibrary.org">Library 
+                          - Brooklyn</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.nypl.org/">Library - New York</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.queenslibrary.org">Library - Queens</a><br>
+                          <a href="/html/loft/home.html">Loft Board</a><br>
+                          <a href="/html/omb/home.html">Management & Budget</a><br>
+                          <a href="http://www.cityclerk.nyc.gov/html/marriage/marriage_bureau.shtml">Marriage 
+                          Bureau</a><br>
+                          <a href="/marshals">Marshals Committee</a><br>
+                          <a href="/html/om/home.html">Mayor</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.nycvisit.com/home/index.cfm">NYC 
+                          and Company</a><br>
+                          <a href="/html/unccp/scp/html/scphome/home.shtml">NYC 
+                          Global Partners</a><br>
+                          <a href="/html/nyc100/home.html">NYC History</a><br>
+                          <a href="/media">NYC Media</a><br>
+						  <a href="/service">NYC Service</a><br>
+                          <a href="/nycsimplicity">NYC Simplicity</a><br>
+                          <a href="/html/media/html/tv/tv.shtml">NYC TV</a><br>
+                          <a href="/html/nycers">NYC Employees 
+                          Retirement System</a><br>
+                          <a href="/html/nycha/home.html">NYC Housing Authority</a><br>
+                          <a href="/html/nyw/home.html">NYW - Bonds</a><br>
+                          <a href="/html/oath/home.html">OATH</a><br>
+                          <a href="/html/ops/home.html">Operations</a><br>
+                          <a href="/2030">PLANYC 2030</a><br>
+                          <a href="/html/dpr/home.html">Parks & Recreation</a><br>
+                          <a href="/html/opa/html/home/home.shtml">Payroll Administration</a><br>
+                          <a href="/html/nypd/home.html">Police Department</a><br>
+                          <a href="/html/nycppf/home.html">Police Pension Fund</a><br>
+                          <a href="/html/prob/home.html">Probation</a><br>
+                          <a href="/html/moc/ppb/html/home/home.shtml">Procurement 
+                          Policy Board</a><br>
+                          <a href="/html/kcpa/html/home/home.shtml">Public Administrator - Kings County</a><br>
+                          <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.queenscountypa.com">Public Administrator 
+                          - Queens</a><br>
+                          <a href="/html/doh/html/home/home.shtml">Public Health</a><br>
+                          <a href="/html/nycha/home.html">Public Housing-NYC Housing 
+                          Authority</a><br>
+                          <a href="/html/records/home.html">Records and Information 
+                          Services</a><br>
+                          <a href="/html/rgb/home.html">Rent Guidelines Board</a><br>
+                          <a href="/html/dos/home.html">Sanitation</a><br>
+                          <a href="/html/sca/home.html">School Construction Authority</a><br>
+                          <a href="/html/sbs/home.html">Small Business Services</a><br>
+                          <a href="/html/mose/">Special Enforcement</a><br>
+                          <a href="/html/bsa/home.html">Standards and Appeal, 
+                          Board of</a><br>
+                          <a href="/html/tfa/home.html">Transitional Finance Authority 
+                          - Bonds</a><br>
+                          <a href="/html/tsasc/home.html">TSASC - Bonds</a><br>
+                          <a href="http://www.nyc.gov/html/tat/html/home/home.shtml">Tax 
+                          Appeals Tribunal</a><br>
+                          <a href="/html/taxcomm/home.html">Tax Commission</a><br>
+                          <a href="/html/tlc/html/home/home.shtml">Taxi & Limousine 
+                          Commission</a><br>
+                          <a href="/html/dot/home.html">Transportation</a><br>
+                          <a href="/html/oath/home.html">Trials & Hearings</a><br>
+                          <a href="/html/vets/home.html">Veterans - Military</a><br>
+                          <a href="/html/mvc/">Volunteer Center</a><br>
+                          <a href="/html/vac/home.html">Voter Assistance</a><br>
+                          <a href="/html/cwi/home.html">Women's Issues</a><br>
+                          <a href="/html/sbs/wf1/html/home/home.shtml">Workforce1</a><br>
+                          <a href="/html/dycd/home.html">Youth & Community Development</a><br>
+                        </p>
+						
+                        <p>&nbsp;</p>
+                      </td>
+                    </tr>
+                  </table>
+                  <img src="/portal/images/spacers/spacer.gif" alt="" width="369" height="15" border="0"><br>
+                  <br>
+                </td>
+                <!-- InstanceEndEditable -->
+                <td width="20"><img src="/portal/images/spacers/spacer.gif" width="20" height="10"></td>
+              </tr>
+            </table>
+          </td>
+          <!-- InstanceBeginEditable name="right_nav" -->
+          <td width=180 valign="top" align="left">
+            <table width="180" border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top">
+                <td width="10"><img src="/portal/images/spacers/spacer.gif" width="10" height="20"></td>
+                <td width="160">
+                  <p><br>
+                  </p>
+                </td>
+                <td width="10"><img src="/portal/images/spacers/spacer.gif" width="10" height="20"></td>
+              </tr>
+            </table>
+            <br>
+          <img src="/portal/images/spacers/spacer.gif" width="180" height="12"></td>
+          <!-- InstanceEndEditable --> </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="769" border="0" cellspacing="0" cellpadding="0" bgcolor="#494B4C">
+  <tr>
+    <td width="13"><img src="/portal/images/spacers/spacer.gif" width="13" height="24"></td>
+    <td width="287"><span class="footer_copyright">Copyright 2010 The City of
+        New York</span></td>
+    <td width="444" align="right" class="footer_links"><span class="footer_links"> <a href="/contact" class="footer_links">Contact
+          Us</a> <span class="footer_links">|</span> <a href="/faqs" class="footer_links">FAQs</a> | <a href="/privacy " class="footer_links">Privacy
+          Statement</a> | <a href="/sitemap" class="footer_links">Site Map</a></span></td>
+    <td width="25" align="right"><img src="/portal/images/spacers/spacer.gif" width="25" height="24"></td>
+  </tr>
+</table>
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.DCS.dcssta = "404";
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+</body>
+<!-- InstanceEnd --></html>
